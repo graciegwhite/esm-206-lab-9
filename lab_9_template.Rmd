@@ -1,10 +1,10 @@
 ---
 title: "Lab 9 - Multiple Linear Regression"
-author: "ENTER YOUR NAME HERE"
+author: "Gracie White"
 output:
   html_document: default
 ---
-
+edits.
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
